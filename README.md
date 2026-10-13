@@ -22,6 +22,6 @@ Estimate the projected annual sales volume of CPG products
   - `SI` — medium potential
   - `GO` — high potential
   - `PL` — max potential
-  - `New Customer — potential not determined
+  - `New Customer` — potential not determined
   - `Other` — potential not determined
   - `NOT SEGMENTED` — potential not determined
