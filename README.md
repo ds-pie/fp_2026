@@ -2,7 +2,7 @@
 
 ## Task
 
-Estimate the projected annual sales volume of CPG products.
+Estimate the projected annual sales volume of CPG products
 
 ## Variable Description
 
